@@ -1,4 +1,4 @@
-# Math Trainer
+# Math Trainer Game
 
 A test project for the celo dev 101 course in the dacade.org.
 
