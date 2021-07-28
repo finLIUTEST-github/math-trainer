@@ -11,3 +11,5 @@ A test project for the celo dev 101 course in the dacade.org.
 5. Open the DApp.👇👇
 
 DAPP DEMO LINK
+
+https://finliutest-github.github.io/math-trainer/
