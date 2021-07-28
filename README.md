@@ -1,6 +1,6 @@
 # Math Trainer Game
 
-A test project for the celo dev 101 course in the dacade.org.
+A test project for the celo dev 101 course in the dacade.org
 
 ## HOW TO TEST
 
